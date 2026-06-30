@@ -1,31 +1,119 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<!-- ===================================================== -->
+<!-- 🌟 SHUBHAM KUMAR - GITHUB PROFILE README -->
+<!-- ===================================================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumaroffical79090&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumaroffical79090" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Shubham+Kumar!;Java+%26+Spring+Boot+Developer;Clean+Architecture+%7C+Cloud+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkumaroffical79090" alt="shubhamkumaroffical79090" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Artificial intelligence (AI)**
+### 🌟 About Me  
 
-- 🤝 I’m looking for help with **Backend**
+🚀 **Building scalable applications with Java & Spring Boot**  
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/shubhamkumaroffical79090](linkedin.com/in/shubhamkumaroffical79090)
+🌱 Currently exploring **Cloud DevOps, Kubernetes, and AWS**  
+🧠 Passionate about **clean architecture, concurrency, and software design principles**  
+🎯 Goal: To build impactful products that simplify real-world problems  
 
-- 💬 Ask me about **Backend**
+---
 
-- 📫 How to reach me **shubhamkumaroffical79090@gmail.com**
+## 🧰 Tech Stack
 
-- ⚡ Fun fact **🌅 I'm always looking for the perfect light, whether for photos or code.**
+| **Category** | **Technologies** |
+|:-------------|:-----------------|
+| **Languages** | ![CoreJava](https://img.shields.io/badge/CoreJava-orange?logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?logo=database&logoColor=white) |
+| **Frameworks & Libraries** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white) |
+| **Backend & Architecture** | ![REST API](https://img.shields.io/badge/REST%20API-02569B?logo=fastapi&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?logo=microgenetics&logoColor=white) ![API Gateway](https://img.shields.io/badge/API%20Gateway-5A29E4?logo=kong&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-Service%20Discovery-red?logo=netflix&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+| **Testing & Architecture** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-4B8BBE?logo=mockito&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-yellow?logoColor=black) ![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture-0A66C2?logoColor=white) ![DTO Pattern](https://img.shields.io/badge/DTO%20Pattern-8E44AD?logoColor=white) |
+| **Core CS Concepts** | ![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?logo=c&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-007396?logo=java&logoColor=white) ![Multithreading](https://img.shields.io/badge/Multithreading-FF5733?logo=java&logoColor=white) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/shubhamkumaroffical79090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubhamkumaroffical79090" height="30" width="40" /></a>
-<a href="https://instagram.com/the_blissful_lens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_blissful_lens" height="30" width="40" /></a>
+---
+---
+
+### 🧩 Additional Skills  
+**Testing:** JUnit, Mockito  
+**Concurrency:** Thread Pools, Synchronization  
+**Architecture:** MVC, Clean Architecture  
+**Methodology:** Agile (Scrum)  
+
+---
+
+## 💼 Projects  
+### 🏫 [College Management System](https://github.com/Shubhamkumar/College-Management-System)
+> **Tech Stack:** Java, Spring Boot, Spring Security, Spring Cloud, Eureka, OpenFeign, JWT, MySQL, Liquibase, Swagger, Docker, Maven
+* Built a complete microservices-based backend system managing domain services for authentication, users, courses, faculty, students, attendance, library, departments, and dashboards.
+* Implemented secure REST APIs with JWT authentication, API Gateway routing, Eureka service discovery, and OpenFeign inter-service communication[cite: 1].
+* Designed clean backend operations with centralized exception handling, standardized responses, validation, soft deletes, and transactional integrity[cite: 1].
+
+### 🔄 [User-Product Microservices System](https://github.com/Shubhamkumar/User-Product-Microservices)
+> **Tech Stack:** Java 8, Spring Boot, Spring Cloud, Eureka, Gateway, JWT, MySQL[cite: 1]
+* Engineered a distributed microservices ecosystem utilizing Eureka Service Discovery and API Gateway for decoupled backend operations[cite: 1].
+* Developed an authentication service featuring JWT validation, OTP verification, and secure password-reset logic across services[cite: 1].
+* Managed a monorepo structure spanning 5 separate services to maximize registration efficiency and optimize routing workflows[cite: 1].
+
+### 🔐 [Employee Management System Secure Backend API](https://github.com/Shubhamkumar/Employee-Management-System)
+> **Tech Stack:** Java, Spring Boot, Spring Security, JWT, OAuth2, MySQL[cite: 1]
+* Designed a role-based access control backend to securely manage employee profiles and company user accounts[cite: 1].
+* Implemented industry-standard token architectures: JWT authentication, refresh token rotation, secure logouts, token blacklisting, and OAuth2 social logins (Google/GitHub)[cite: 1].
+* Exposed production-ready CRUD endpoints and admin dashboards integrated with globally handled system exceptions[cite: 1].
+
+### 🚗 [EcoRoute Planner Backend System](https://github.com/Shubhamkumar/EcoRoutePlannerBackend)
+> **Tech Stack:** Java, Spring Boot, Spring Security, Google Maps API, MySQL[cite: 1]
+* Formulated robust REST APIs incorporating Google Maps API for optimized route logic and stable response mapping[cite: 1].
+* Applied DTO design patterns and structured layered architecture to maximize API validation constraints and testing capabilities[cite: 1].
+### 🌍 [Pro Planet Person](https://github.com/Shubhamkumar/ProPlanetPerson)
+> **Tech Stack:** Java, kotlin, firbase database, firebase login-logout,firebase OAuth2[cite: 1]
+* 🌱 Instagram-style eco app with Firebase backend, Google Authentication, and an eco-leaderboard system promoting sustainable living.
+* also has shopping feature like amazon with large data base and payment process.
+
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="github-metrics.svg" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamkumar&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats-m6lc4be5p-shubhamkumars-projects.vercel.app/api/top-langs/?username=Shubhamkumar&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
+</p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkumaroffical79090&show_icons=true&locale=en&layout=compact" alt="shubhamkumaroffical79090" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkumaroffical79090&show_icons=true&locale=en" alt="shubhamkumaroffical79090" /></p>
+
+---
+---
+
+## ✨ Fun Touch  
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamkumar&theme=darkhub&no-bg=true&no-frame=true&margin-w=5"/>
+</p> -->
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+---
+
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:shubhamkumaroffical79090@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shubhamkumaroffical79090/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+---
+
+---
+
+<h3 align="center">💬 “Code with purpose. Build for impact.” 💬</h3>
+
+---
