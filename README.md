@@ -8,13 +8,12 @@
 
 ---
 
-### 🌟 About Me  
+# 👨‍💻 About Me
 
-🚀 **Building scalable applications with Java & Spring Boot**  
-
-🌱 Currently exploring **Cloud DevOps, Kubernetes, and AWS**  
-🧠 Passionate about **clean architecture, concurrency, and software design principles**  
-🎯 Goal: To build impactful products that simplify real-world problems  
+- 💼 Java Backend Developer with hands-on experience in **Spring Boot**, **Microservices**, and **REST API Development**
+- 🚀 Experienced in building scalable backend systems using **Spring Security**, **JWT**, **PostgreSQL**, and **Spring Cloud**
+- ☁️ Interested in **Distributed Systems**, **Cloud Technologies**, **DevOps**, and **Software Architecture**
+- 🤝 Strong believer in clean code, reusable components, and maintainable software
 
 ---
 
