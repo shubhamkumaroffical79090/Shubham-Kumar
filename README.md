@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="github-metrics.svg" height="180em" />
